@@ -1,3 +1,3 @@
-- 🔭 I’m currently working on Traily
-- 🌱 I’m currently learning Vue.js
+- 🔭 I’m currently working at Swisscom
+- 🌱 I’m currently learning Vue.js / Openshift / Docker / Kubernetes / Ansible
 
